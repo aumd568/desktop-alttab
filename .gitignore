@@ -1,5 +1,6 @@
 # Build output
 Desktop
+test_activate
 *.o
 *.dSYM/
 
